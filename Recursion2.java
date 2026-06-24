@@ -12,7 +12,7 @@ public class Recursion2 {
     }
 
     public static void main(String args[]){
-        String str = "aman";
+        String str = "abcd";
         printRevr(str, str.length()-1);
 
     }
