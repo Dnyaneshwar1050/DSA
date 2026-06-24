@@ -19,7 +19,7 @@ public class Recursion1 {
 
 //print Factorial of number n
 
-class Recursion2 {
+class Recursion21 {
 
     public static int printFactorial(int n){
 
