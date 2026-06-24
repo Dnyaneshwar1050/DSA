@@ -2,11 +2,11 @@ public class Recursion2 {
 
     public static void printRevr(String str, int idx){
         if(idx == 0){
-            System.out.println(str.charAt(idx));
+            System.out.print(str.charAt(idx));
             return;
         }
 
-        System.out.println(str.charAt(idx));
+        System.out.print(str.charAt(idx));
         printRevr(str, idx-1);
 
     }
