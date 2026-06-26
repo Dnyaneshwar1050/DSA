@@ -46,7 +46,7 @@ class Recursion21 {
 
 // print fibonacci series 
 
-class Recursion3 {
+class Recursion311 {
 
     public static void printFibonacci(int a, int b, int n){
 
